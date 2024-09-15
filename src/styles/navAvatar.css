@@ -1,0 +1,32 @@
+/* Existing styles */
+.bottomSideIcon {
+  width: 16px;
+  margin-left: 6px;
+}
+
+.nav-item {
+  list-style-type: none;
+}
+
+.nav-profile {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  color: #333;
+}
+
+.profileDp {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.btn-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btn-link:hover {
+  opacity: 0.8;
+}

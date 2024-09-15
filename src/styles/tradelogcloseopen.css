@@ -1,0 +1,16 @@
+.trade-log-btn-l {
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 8px 0px 0px 8px;
+  border-width: 0px;
+}
+.trade-log-btn-r {
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 0px 8px 8px 0px;
+  border-width: 0px;
+}

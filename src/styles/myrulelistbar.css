@@ -1,0 +1,65 @@
+.my-rule-list-heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(241, 241, 242, 1);
+  margin-top: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 32px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.my-rule-listitem-heading {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 0;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 0.6px;
+  border: 0.6px solid rgba(0, 0, 0, 0.06);
+}
+
+.my-rule-list-heading img {
+  width: 18px;
+  height: 18px;
+  margin-right: 25px;
+  cursor: pointer;
+}
+
+.my-rule-listitem-heading img {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.my-rule-list-heading span {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.my-rule-select {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.my-rule-action {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+
+.my-rule-action img {
+  width: 28px;
+  height: 28px;
+}

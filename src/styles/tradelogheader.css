@@ -1,0 +1,52 @@
+.head {
+  font-size: 26px;
+  font-weight: 500;
+  color: rgba(19, 19, 19, 1);
+}
+.tradelog-header-header {
+  margin-bottom: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  padding-bottom: 12px;
+}
+
+.trade-log-header-img {
+  height: 24px;
+  margin-right: 8px;
+}
+
+.trade-log-btn-a {
+  background-color: rgba(160, 115, 240, 1);
+  color: white;
+  margin-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border-width: 0px;
+  border-radius: 8px;
+}
+
+.trade-log-btn-a:hover {
+  opacity: 1;
+  background-color: rgb(160, 115, 240);
+}
+
+.trade-log-btn-i {
+  background-color: white;
+  color: rgba(134, 87, 236, 1);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border-width: 1px;
+  border-radius: 8px;
+  border-color: rgba(134, 87, 236, 1);
+}
+
+.trade-log-btn-i:hover {
+  opacity: 1;
+  background-color: rgb(251, 248, 248);
+}

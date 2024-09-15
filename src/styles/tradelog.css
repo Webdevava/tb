@@ -1,0 +1,23 @@
+.tradelog-header-container {
+  position: relative;
+  margin-left: 24px;
+  margin-right: 24px;
+  padding: 24px;
+  background-color: white;
+  margin-top: 24px;
+  border-radius: 12px;
+  /* bottom: 32px; */
+  transition: height 0.3s ease-in-out;
+}
+
+.tradelog th {
+  font-size: 14;
+  font-family: "Poppins";
+  font-weight: 400;
+}
+
+.tradelog td {
+  font-size: 12;
+  font-family: "Poppins";
+  font-weight: 400;
+}
